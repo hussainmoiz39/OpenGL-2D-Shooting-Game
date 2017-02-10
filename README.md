@@ -10,8 +10,6 @@ Abstract
 A laser-cannon game where the objective is to score as many points as possible by destroying the black bricks before they reach the baskets on the floor. Destroying black bricks gives you points and collecting the red and green bricks in their respective baskets gives you points too. If you successfully score more than 100 points, you win the game.
 Controls:
 Mouse:
-
-    Scroll up/down to zoom in and zoom out
     Right click and drag to move the baskets.
     Left click anywhere on the screen to get the cannon ready, and release to launch a laser.
 
